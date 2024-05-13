@@ -25,4 +25,3 @@ This dataset can be used for various data analysis and machine learning tasks, s
 - Analyzing the effectiveness of different survival strategies
 
 
-#codsoft #titanic_survival #data_analytics #machine_learning
