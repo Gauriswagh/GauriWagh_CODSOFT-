@@ -2,7 +2,7 @@
 
 ## Overview
 This dataset contains information about passengers aboard the Titanic, including whether they survived or not. 
-It is a common dataset used in machine learning and data analysis tutorials due to its accessibility and historical significance.
+It is a common dataset used in machine learning and data analysis tutorials because it have historical significance, and easily available.
 
 ## Content
 The dataset consist of the following columns:
