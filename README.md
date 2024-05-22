@@ -1,4 +1,5 @@
 ## Titanic Survival Dataset
+This dataset contains information about passengers aboard the Titanic, including whether they survived or not. 
 
 ## Overview
 This dataset contains information about passengers aboard the Titanic, including whether they survived or not. 
